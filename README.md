@@ -17,6 +17,7 @@ Changes:
 
 Results:
 Own Model- Epochs:30,  acc: 0.7152,  val_acc: 0.6385
+
 Transfer Learning - Epochs:20, acc: 0.9240, val_acc: 0.7441
 
 Any more epochs could result in overfitting. To reduce the variance of the validation accuracy, improve regularization, vary data distribution.
