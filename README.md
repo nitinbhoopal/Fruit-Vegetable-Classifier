@@ -20,6 +20,9 @@ Own Model- Epochs:30,  acc: 0.7152,  val_acc: 0.6385
 
 Transfer Learning - Epochs:20, acc: 0.9240, val_acc: 0.7441
 
+Also, note that the class index predicted using the apple image is different in both cases. This image was misidentified in the simple NN.
+
+
 Any more epochs could result in overfitting. To reduce the variance of the validation accuracy, improve regularization, vary data distribution.
 
 Feel free to add more classes and improve the model further!
